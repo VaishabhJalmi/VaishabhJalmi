@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VaishabhJalmi
 - 👀 I’m interested in Electronics
-- 🌱 I’m currently learning Embedded programming
+- 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on YouTube
 - 📫 How to reach me Electronics Curiosities
 
